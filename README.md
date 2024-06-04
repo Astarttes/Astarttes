@@ -11,8 +11,7 @@ Soy un ingeniero mecatrónico y desarrollador de software multiplataforma apasio
 ## Proyectos Destacados
 
 - [Argos](https://github.com/Astarttes/Argos): Monitor de red con esteroides.
-- [BattleComm](https://github.com/Astarttes/BattleComm): Chat en tiempo real
-- [Proyecto 3](enlace_al_proyecto_3): Breve descripción del proyecto.
+- [Astra](https://github.com/Astarttes/Astra): Nuestro Foro Latino
 
 
 ## Contacto
